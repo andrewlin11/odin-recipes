@@ -1,2 +1,2 @@
 # odin-recipes
-website with 3 recipes
+website with 3 recipes.
