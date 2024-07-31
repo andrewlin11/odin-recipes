@@ -1,2 +1,2 @@
 # odin-recipes
-um idk yet we'll see what i can write
+website with 3 recipes
